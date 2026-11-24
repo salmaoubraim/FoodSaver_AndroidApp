@@ -1,0 +1,54 @@
+com.foodsaver.android.app-jetified-core-ktx-1.9.0-0 C:\Users\Admin\.gradle\caches\transforms-3\049d14a4c5dfd4c40680a409f1d29462\transformed\jetified-core-ktx-1.9.0\res
+com.foodsaver.android.app-lifecycle-livedata-2.7.0-1 C:\Users\Admin\.gradle\caches\transforms-3\0676996e688d3551163266ceaac4c357\transformed\lifecycle-livedata-2.7.0\res
+com.foodsaver.android.app-jetified-activity-1.8.0-2 C:\Users\Admin\.gradle\caches\transforms-3\0ae0fa931bd4c13bd2237971e5bd2118\transformed\jetified-activity-1.8.0\res
+com.foodsaver.android.app-cardview-1.0.0-3 C:\Users\Admin\.gradle\caches\transforms-3\0b9d7b3d206596a7970c9c1ccb842765\transformed\cardview-1.0.0\res
+com.foodsaver.android.app-jetified-savedstate-1.2.1-4 C:\Users\Admin\.gradle\caches\transforms-3\0c1e3a38ca7d08535f92cb7f84878303\transformed\jetified-savedstate-1.2.1\res
+com.foodsaver.android.app-recyclerview-1.3.2-5 C:\Users\Admin\.gradle\caches\transforms-3\2088fa39e376607d240b2774daa696e5\transformed\recyclerview-1.3.2\res
+com.foodsaver.android.app-sqlite-2.4.0-6 C:\Users\Admin\.gradle\caches\transforms-3\21807794fd7dec29fdb88613bc7128e6\transformed\sqlite-2.4.0\res
+com.foodsaver.android.app-drawerlayout-1.1.1-7 C:\Users\Admin\.gradle\caches\transforms-3\23d73d7a56137830c0da57ad39e5b53f\transformed\drawerlayout-1.1.1\res
+com.foodsaver.android.app-jetified-annotation-experimental-1.4.0-8 C:\Users\Admin\.gradle\caches\transforms-3\252ca53341d6784d5b0f911cafccb4cc\transformed\jetified-annotation-experimental-1.4.0\res
+com.foodsaver.android.app-jetified-cloudinary-android-preprocess-2.3.1-9 C:\Users\Admin\.gradle\caches\transforms-3\2b5cf5e4036c9f01e5d5a8bdbfb37c63\transformed\jetified-cloudinary-android-preprocess-2.3.1\res
+com.foodsaver.android.app-jetified-appcompat-resources-1.6.1-10 C:\Users\Admin\.gradle\caches\transforms-3\484954221ec33dcdb6364efe2b7e18a1\transformed\jetified-appcompat-resources-1.6.1\res
+com.foodsaver.android.app-jetified-customview-poolingcontainer-1.0.0-11 C:\Users\Admin\.gradle\caches\transforms-3\495c9e2c4e6fd5d89445fd252c509e20\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.foodsaver.android.app-jetified-profileinstaller-1.3.0-12 C:\Users\Admin\.gradle\caches\transforms-3\4b5746b50e6c805b8010bbde046fa343\transformed\jetified-profileinstaller-1.3.0\res
+com.foodsaver.android.app-transition-1.2.0-13 C:\Users\Admin\.gradle\caches\transforms-3\58fe0ef0ab99e40ebe858f6db3fb8487\transformed\transition-1.2.0\res
+com.foodsaver.android.app-constraintlayout-2.1.4-14 C:\Users\Admin\.gradle\caches\transforms-3\5a9a96922d30c7dcd7c3ce13b18186a2\transformed\constraintlayout-2.1.4\res
+com.foodsaver.android.app-lifecycle-viewmodel-2.7.0-15 C:\Users\Admin\.gradle\caches\transforms-3\5d3e77c888932439f4f7f41243958fd9\transformed\lifecycle-viewmodel-2.7.0\res
+com.foodsaver.android.app-coordinatorlayout-1.1.0-16 C:\Users\Admin\.gradle\caches\transforms-3\5f1b2bb408bdeee63d6b680e286ec72b\transformed\coordinatorlayout-1.1.0\res
+com.foodsaver.android.app-jetified-osmdroid-android-6.1.18-17 C:\Users\Admin\.gradle\caches\transforms-3\615b955079095ad9e5ddd231f1dca4d1\transformed\jetified-osmdroid-android-6.1.18\res
+com.foodsaver.android.app-core-1.9.0-18 C:\Users\Admin\.gradle\caches\transforms-3\61b06a6ca0d114f1992c70c657b8abdb\transformed\core-1.9.0\res
+com.foodsaver.android.app-jetified-emoji2-views-helper-1.2.0-19 C:\Users\Admin\.gradle\caches\transforms-3\62418bc63b7eaaea747632ce81d101d8\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.foodsaver.android.app-core-runtime-2.2.0-20 C:\Users\Admin\.gradle\caches\transforms-3\62743b67db4378dea9bb816a235b86a0\transformed\core-runtime-2.2.0\res
+com.foodsaver.android.app-jetified-lottie-6.3.0-21 C:\Users\Admin\.gradle\caches\transforms-3\63d245f8a53b1e9c3114baba9f7de4f9\transformed\jetified-lottie-6.3.0\res
+com.foodsaver.android.app-material-1.11.0-22 C:\Users\Admin\.gradle\caches\transforms-3\6ad70dae0f3823c07a14fe395492f893\transformed\material-1.11.0\res
+com.foodsaver.android.app-sqlite-framework-2.4.0-23 C:\Users\Admin\.gradle\caches\transforms-3\7f500a77442f866ced82d9b722173ea0\transformed\sqlite-framework-2.4.0\res
+com.foodsaver.android.app-jetified-play-services-base-18.1.0-24 C:\Users\Admin\.gradle\caches\transforms-3\80a7b6f6d6308cc3a354ceb9f9592c3e\transformed\jetified-play-services-base-18.1.0\res
+com.foodsaver.android.app-jetified-cloudinary-android-ui-2.3.1-25 C:\Users\Admin\.gradle\caches\transforms-3\86d86124cd6a9bf7faa3dad9426c8f8c\transformed\jetified-cloudinary-android-ui-2.3.1\res
+com.foodsaver.android.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-26 C:\Users\Admin\.gradle\caches\transforms-3\95b2a8a0384b3b61ca2a3fa46b152bca\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.foodsaver.android.app-work-runtime-2.7.1-27 C:\Users\Admin\.gradle\caches\transforms-3\95e46b093ccd31dcf375cb9cd05a94aa\transformed\work-runtime-2.7.1\res
+com.foodsaver.android.app-jetified-firebase-common-20.4.2-28 C:\Users\Admin\.gradle\caches\transforms-3\96c651c3a1f2bf9903545c417d0eb12c\transformed\jetified-firebase-common-20.4.2\res
+com.foodsaver.android.app-jetified-viewpager2-1.1.0-29 C:\Users\Admin\.gradle\caches\transforms-3\977d221f0d64eef21e3ec7c305418195\transformed\jetified-viewpager2-1.1.0\res
+com.foodsaver.android.app-jetified-glide-4.16.0-30 C:\Users\Admin\.gradle\caches\transforms-3\9d331f3461941cae1719f570af722a6e\transformed\jetified-glide-4.16.0\res
+com.foodsaver.android.app-jetified-lifecycle-process-2.7.0-31 C:\Users\Admin\.gradle\caches\transforms-3\9d3cfc4d594255429e7f48be1f044db2\transformed\jetified-lifecycle-process-2.7.0\res
+com.foodsaver.android.app-jetified-play-services-maps-18.2.0-32 C:\Users\Admin\.gradle\caches\transforms-3\a64952cc58a6ff4e882d65cf482cf941\transformed\jetified-play-services-maps-18.2.0\res
+com.foodsaver.android.app-room-runtime-2.6.1-33 C:\Users\Admin\.gradle\caches\transforms-3\a7c237646ce2ca5d5fa4162088fe6dee\transformed\room-runtime-2.6.1\res
+com.foodsaver.android.app-browser-1.4.0-34 C:\Users\Admin\.gradle\caches\transforms-3\ac3e4ac43cdd0f8e547cb18337024816\transformed\browser-1.4.0\res
+com.foodsaver.android.app-appcompat-1.6.1-35 C:\Users\Admin\.gradle\caches\transforms-3\aed864cc4084613eb6eaf9c266e6d260\transformed\appcompat-1.6.1\res
+com.foodsaver.android.app-jetified-lifecycle-service-2.7.0-36 C:\Users\Admin\.gradle\caches\transforms-3\bcf42b9ba843d7d1c52acae0c7c47306\transformed\jetified-lifecycle-service-2.7.0\res
+com.foodsaver.android.app-jetified-play-services-basement-18.1.0-37 C:\Users\Admin\.gradle\caches\transforms-3\c614afd03b78495cff2112b2e5008d10\transformed\jetified-play-services-basement-18.1.0\res
+com.foodsaver.android.app-jetified-emoji2-1.2.0-38 C:\Users\Admin\.gradle\caches\transforms-3\d5de2e39a14d22b295552e321c72c016\transformed\jetified-emoji2-1.2.0\res
+com.foodsaver.android.app-fragment-1.3.6-39 C:\Users\Admin\.gradle\caches\transforms-3\deb4293454e8693d650312ad4e040d52\transformed\fragment-1.3.6\res
+com.foodsaver.android.app-lifecycle-livedata-core-2.7.0-40 C:\Users\Admin\.gradle\caches\transforms-3\deff5a3f5dc67739ad3a6620b2a36b29\transformed\lifecycle-livedata-core-2.7.0\res
+com.foodsaver.android.app-lifecycle-runtime-2.7.0-41 C:\Users\Admin\.gradle\caches\transforms-3\e6270349e7629d8fccd7b3499c346bb9\transformed\lifecycle-runtime-2.7.0\res
+com.foodsaver.android.app-jetified-startup-runtime-1.1.1-42 C:\Users\Admin\.gradle\caches\transforms-3\f29644b326f2c5a97e9c1baec552b950\transformed\jetified-startup-runtime-1.1.1\res
+com.foodsaver.android.app-media-1.0.0-43 C:\Users\Admin\.gradle\caches\transforms-3\f3c0a1dcab31193ab60502fb6f2b72f1\transformed\media-1.0.0\res
+com.foodsaver.android.app-jetified-drawee-2.6.0-44 C:\Users\Admin\.gradle\caches\transforms-3\f9603fa49d7e0661ff0a7f5676324427\transformed\jetified-drawee-2.6.0\res
+com.foodsaver.android.app-jetified-lifecycle-livedata-core-ktx-2.7.0-45 C:\Users\Admin\.gradle\caches\transforms-3\f96d22ad7b7987c5c34b19701cbea95c\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.foodsaver.android.app-pngs-46 C:\Users\Admin\Desktop\FoodSaver_Android (VF)\FoodSaver_Android\app\build\generated\res\pngs\debug
+com.foodsaver.android.app-res-47 C:\Users\Admin\Desktop\FoodSaver_Android (VF)\FoodSaver_Android\app\build\generated\res\processDebugGoogleServices
+com.foodsaver.android.app-resValues-48 C:\Users\Admin\Desktop\FoodSaver_Android (VF)\FoodSaver_Android\app\build\generated\res\resValues\debug
+com.foodsaver.android.app-packageDebugResources-49 C:\Users\Admin\Desktop\FoodSaver_Android (VF)\FoodSaver_Android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.foodsaver.android.app-packageDebugResources-50 C:\Users\Admin\Desktop\FoodSaver_Android (VF)\FoodSaver_Android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.foodsaver.android.app-merged_res-51 C:\Users\Admin\Desktop\FoodSaver_Android (VF)\FoodSaver_Android\app\build\intermediates\merged_res\debug
+com.foodsaver.android.app-debug-52 C:\Users\Admin\Desktop\FoodSaver_Android (VF)\FoodSaver_Android\app\src\debug\res
+com.foodsaver.android.app-main-53 C:\Users\Admin\Desktop\FoodSaver_Android (VF)\FoodSaver_Android\app\src\main\res

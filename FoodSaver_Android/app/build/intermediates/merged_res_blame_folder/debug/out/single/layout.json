@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\item_commerce_admin.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\item_commerce_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\item_panier_client.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\item_panier_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_stats.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_user_management.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_user_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\item_reservation_merchant.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\item_reservation_merchant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_commerce_validation.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_commerce_validation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_merchant_paniers.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_merchant_paniers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_commerces_map.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_commerces_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\bottom_sheet_commerce_map.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\bottom_sheet_commerce_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\layout_bottom_nav.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\layout_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\item_reservation.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\item_reservation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_merchant_home.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_merchant_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\dialog_commerce_form.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\dialog_commerce_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_rate_commerce.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_rate_commerce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_categories.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\item_onboarding_slide.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\item_onboarding_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_onboarding.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_paniers.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_paniers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\item_chip_category.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\item_chip_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\info_window_commerce.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\info_window_commerce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_client_home.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_client_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_reservations.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_reservations.xml"
+    },
+    {
+        "merged": "com.foodsaver.android.app-mergeDebugResources-50:/layout/item_merchant_commerce.xml",
+        "source": "com.foodsaver.android.app-main-53:/layout/item_merchant_commerce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\layout_toolbar.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\layout_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\item_notification.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\item_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_panier_detail.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_panier_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_order_success.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_order_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\item_category_card.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\item_category_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\item_panier_merchant.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\item_panier_merchant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\item_commerce.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\item_commerce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_edit_panier.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_edit_panier.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\item_merchant_commerce.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\item_merchant_commerce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_merchant_profile.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_merchant_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_notifications.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_admin_home.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_admin_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\activity_client_profile.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\activity_client_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-mergeDebugResources-50:\\layout\\item_user_admin.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.2\\com.foodsaver.android.app-main-53:\\layout\\item_user_admin.xml"
+    }
+]

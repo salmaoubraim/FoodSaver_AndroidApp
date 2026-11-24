@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فود سيفر</string>
+    <string name="app_tagline">مكافحة هدر الغذاء</string>
+    <string name="available">متاح</string>
+    <string name="cancel">إلغاء</string>
+    <string name="categories">الفئات</string>
+    <string name="checkout">تأكيد</string>
+    <string name="commerces">المحلات</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="congratulations">تهانينا!</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="description">الوصف</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="map_commerces">خريطة المحلات</string>
+    <string name="my_reservations">حجوزاتي</string>
+    <string name="name">الاسم</string>
+    <string name="no_commerces">لا محلات</string>
+    <string name="no_paniers">لا سلات متاحة</string>
+    <string name="notification_nouvelle_reservation">حجز جديد ل‍ %1$s</string>
+    <string name="notification_reservation_annulee_client">تم إلغاء حجزك.</string>
+    <string name="notification_reservation_annulee_merchant">تم إلغاء حجز في %1$s.</string>
+    <string name="notification_reservation_confirmee">تم تأكيد حجزك.</string>
+    <string name="order_confirmed">تم تأكيد طلبك بنجاح</string>
+    <string name="paniers">السلات</string>
+    <string name="password">كلمة المرور</string>
+    <string name="price">السعر</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="quantity">الكمية</string>
+    <string name="register">إنشاء حساب</string>
+    <string name="reservation_confirmed">تمت الحجز</string>
+    <string name="reserve">احجز</string>
+    <string name="reserve_button">احجز</string>
+    <string name="role">الدور</string>
+    <string name="role_client">عميل</string>
+    <string name="role_merchant">تاجر</string>
+    <string name="save">حفظ</string>
+    <string name="sold_out">نفد</string>
+    <string name="total_price">المجموع: %1$s درهم</string>
+    <string name="version_format">الإصدار 1.0.0</string>
+</resources>

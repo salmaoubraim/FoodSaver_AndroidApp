@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Palette centrée sur l'orange -->
+    <color name="primary">#FF6B00</color>
+    <color name="primary_dark">#E65F00</color>
+    <color name="primary_light">#FF8C33</color>
+    <color name="accent">#FFB347</color>
+    <color name="background">#FFF7F0</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#7A4A1A</color>
+    <color name="text_hint">#D9A77A</color>
+    <color name="divider">#FFE0C2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="error">#D32F2F</color>
+    <color name="success">#388E3C</color>
+    <color name="card_shadow">#1A000000</color>
+</resources>

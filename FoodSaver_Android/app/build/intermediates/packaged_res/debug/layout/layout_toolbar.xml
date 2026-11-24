@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.MaterialToolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@color/primary"
+    app:title="FoodSaver"
+    app:titleTextColor="@color/white">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="end"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_width="40dp"
+            android:layout_height="40dp">
+
+            <ImageView
+                android:id="@+id/btnNotification"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="8dp"
+                android:src="@drawable/ic_notification_bell"
+                android:contentDescription="@string/notifications"
+                app:tint="@color/white"/>
+
+            <TextView
+                android:id="@+id/tvNotificationBadge"
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:layout_gravity="end|top"
+                android:layout_marginTop="4dp"
+                android:layout_marginEnd="2dp"
+                android:background="@drawable/bg_badge_notification"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="10sp"
+                android:visibility="gone"/>
+        </FrameLayout>
+
+        <ImageView
+            android:id="@+id/btnMap"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:padding="8dp"
+            android:src="@drawable/ic_map_pin"
+            android:contentDescription="@string/map_commerces"
+            app:tint="@color/white"/>
+    </LinearLayout>
+
+</com.google.android.material.appbar.MaterialToolbar>

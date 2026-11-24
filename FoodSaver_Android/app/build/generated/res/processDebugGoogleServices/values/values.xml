@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">10182948708</string>
+    <string name="google_api_key" translatable="false">AIzaSyD4IZoTPcT4rqzPvLi2nlXESxf55ug5Lho</string>
+    <string name="google_app_id" translatable="false">1:10182948708:android:a40959ff64bda323a32c71</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD4IZoTPcT4rqzPvLi2nlXESxf55ug5Lho</string>
+    <string name="google_storage_bucket" translatable="false">foodsaver-21176.firebasestorage.app</string>
+    <string name="project_id" translatable="false">foodsaver-21176</string>
+</resources>
